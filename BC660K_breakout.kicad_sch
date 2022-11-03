@@ -8,6 +8,8 @@
     (title "BC660K Breakout Board")
     (date "2022-10-31")
     (rev "X01")
+    (company "By AxioPaladin")
+    (comment 1 "CERN-OHL-W")
   )
 
   (lib_symbols

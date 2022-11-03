@@ -2,7 +2,15 @@
 
   (uuid 77bfbeab-2c22-4bcd-859a-520f76075862)
 
-  (paper "A4")
+  (paper "USLetter")
+
+  (title_block
+    (title "BC660K Breakout Board (Power Supply)")
+    (date "2022-10-31")
+    (rev "X01")
+    (company "By AxioPaladin")
+    (comment 1 "CERN-OHL-W")
+  )
 
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
